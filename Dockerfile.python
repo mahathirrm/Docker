@@ -1,0 +1,6 @@
+##This simple docker file is for to test ENTRYPOINT
+FROM python:3.11.14-alpine3.23
+WORKDIR /usr/src/app
+COPY main.py .
+##Configure this container for running as an executable.
+ENTRYPOINT ["python", "main.py"]
