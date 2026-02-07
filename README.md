@@ -1,7 +1,6 @@
 # Docker Learning – Theory Notes
 
 **Learner:** Mahathir Mohamed  
-**Scope:** Docker theory only (no hands-on included)  
 **Source:** Personal study notes (Docker Day 1, Day 2, Day 3 – theory)
 
 ---
@@ -256,11 +255,3 @@ Docker provides cleanup mechanisms to:
 - Why Windows containers cannot run on Linux
 
 ---
-
-## Status
-This README contains **Docker theory only**.  
-Hands-on commands and practical implementation will be documented separately.
-
----
-
-📌 *No hands-on practice is included in this document.*
